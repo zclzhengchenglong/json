@@ -16,7 +16,7 @@
         }
 
         function ok(resp) {
-            var result=resp.responseText;  //获取字符串结果
+            var result=resp.responseText;  //获取字符串结果efrgthjkjhgf
             //字符串转json
             var j=JSON.parse(result);
             if (j.msg=="yes"){//已存在
