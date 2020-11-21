@@ -2,7 +2,7 @@
 <html>
 <head>
 
-    <!--引入js文件-->
+    <!--引入js文件khhjkjkj-->
     <script type="text/javascript" src="js/prototype.js"></script>
 
     <script type="text/javascript" >
